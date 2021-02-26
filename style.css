@@ -264,7 +264,6 @@ main {
     }
     
     .menu-curriculum {
-        border: solid 1px black;
         width: 100%;
         max-width: 40rem;
         margin: 0 auto;
@@ -394,7 +393,6 @@ main {
 }
 
 .menu-curriculum {
-    border: solid 1px black;
     width: 100%;
     max-width: 40rem;
     margin: 0 auto;
@@ -440,8 +438,11 @@ main {
     font-size: 1.2rem;
     color: rgba(0,0,0, 0.8);
     }
-    
-    
+   
+ #logo {
+     height:50%;
+     width: 50%;
+ }    
 
 }
 
