@@ -12,5 +12,5 @@ El diseño es responsive 100% gracias a la utilización de medias queries, que o
 
 Ideas a futuro:
 
-Hay un par de secciones que faltan por completar, y algunas para agregar, que quedaron para la próxima versión, a actualizarse a fines de marzo.
+Hay un par de secciones que faltan por completar, y algunas para agregar, que quedaron para la próxima versión, a actualizarse a fines de marzo o comienzos de abril. Hasta entonces esto es lo que hay, salvo que haya necesidad de cambios mayores.
 
